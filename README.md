@@ -1,2 +1,4 @@
 # hello-world
-Cek repository
+
+Hi Humans !
+Hubot here, I like Coffe
